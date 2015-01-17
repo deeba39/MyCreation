@@ -1,0 +1,1 @@
+[07-Jun-2011 06:58:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/plangh/public_html/ext/adb.php on line 137

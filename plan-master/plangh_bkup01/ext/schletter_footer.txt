@@ -1,0 +1,12 @@
+		<w:p wsp:rsidR="009C5894" wsp:rsidRDefault="009C5894" wsp:rsidP="002A2259"/>
+        <w:p wsp:rsidR="009C5894" wsp:rsidRDefault="009C5894">
+            <w:r><w:t> </w:t></w:r>
+		</w:p>
+        <w:sectPr wsp:rsidR="009C5894" wsp:rsidSect="002F51BB">
+			<w:pgSz w:w="11907" w:h="16839" w:code="9"/>
+            <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+            <w:cols w:space="720"/>
+            <w:docGrid w:line-pitch="360"/>
+        </w:sectPr>
+    </w:body>
+</w:wordDocument>

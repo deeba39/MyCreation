@@ -1,0 +1,154 @@
+a:visited
+{
+	color:blue;
+}
+a
+{
+	color:blue;	
+}
+a:hover
+{
+	color:blue;
+}
+.default_field
+{
+   font-size: 10pt;
+   color: #191970;
+   font-family: 'Arial Narrow';
+   background-color: #ededd3
+}
+.default_label
+{
+    font-size: 10pt;
+    color: #191970;
+    font-family: 'Arial Narrow';
+    vertical-align:top;
+    background-color: #ededd3
+}
+label
+{
+    font-size: 10pt;
+    color: #191970;
+    font-family: 'Arial Narrow';
+    vertical-align:top;
+    background-color: #ededd3
+}
+.default_report_title
+{
+    font-size: 11pt;
+    color: #FFFFFF;
+    font-family: Verdana;
+    background-color: #2647A0;
+    border-bottom:1pt solid black;
+    text-align: center;
+    vertical-align:bottom
+    
+}
+.default_report_print_title
+{
+    font-size: 11pt;
+    font-weight: bold;
+    color: #000000;
+    background-color: #FFFFFF;
+    text-align: center
+}
+.default_report_line1
+{
+    font-size: 10pt;
+    font-family: 'Arial Narrow';
+    background-color: #EDF5FF
+}
+
+.default_report_line2
+{
+    font-size: 10pt;
+    font-family: 'Arial Narrow';
+    background-color: #FFFFFF
+}
+
+.default_report_heighlight
+{
+    font-size: 11pt;
+    font-family: 'Arial Narrow';
+    background-color: #FFFFCC
+}
+.default_error
+{
+    font-size: 11pt;
+    color: #FF0000;
+    font-family: 'Arial';
+    background-color: #FDFEC2
+}
+.default_status
+{
+    font-size: 11pt;
+    color: Black;
+    font-family: 'Arial';
+    background-color: #FDFEC2
+}
+.sprompt
+{
+    font-size: 11pt;
+    font-family: 'Arial';
+    background-color: #FDFEC2
+}
+.default_label_error
+{
+    font-size: 10pt;
+    color: #191970;
+    font-family: 'Arial Narrow';
+    vertical-align:top;
+    background-color: #ff0000
+}
+.default_help
+{
+    font-size: 11pt;
+    color: #191970;
+    background-color: #FDFEC2
+}
+.default_form
+{
+    background-color:"#DFEFFF";
+    color: #191970;
+    font-family: 'Arial Narrow';
+}
+.hotspot
+{
+  cursor:pointer;
+  color:blue;
+  text-decoration:underline;
+}
+.menu
+{
+	font-size: 10pt;
+	background: #99cc66;
+	cursor: pointer;
+	font-family: Georgia;
+	text-align: left;
+}
+.toolbar
+{
+	font-size: 10pt;
+	background: #99cc66;
+	font-family: Georgia;
+}
+.menu_bar
+{
+	background-color: #00f6ff;
+}
+
+.menu_head
+{
+	color:#FFFFFF;
+	text-align:center;
+	background-color:#888888
+}
+.main_page
+{
+	background-color: #f9fff2;
+}
+
+.popup
+{
+    background-color: darkseagreen;
+}
